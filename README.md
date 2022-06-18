@@ -24,6 +24,7 @@
     
   **1.Food Order**
   A simple react app for ordering meals. The state of the application is based on 3 different hooks: useState, useRef and useContext (as part of learning). The order is fetching to the firebase database.
+  
   App url: https://foodorder.networkmanager.pl
   Code: https://github.com/eLPog/food_order
   
@@ -34,22 +35,22 @@
    Code: https://github.com/eLPog/Tick_it_off
      
   **3.To Do List Backend**
-    REST API for creating a to-do list. I used Jason Web Token to authentication and awilix package to dependency injection rule. This app was prepared in the develop version. Environment variables were used for configuration. The application is located on the server.
+    REST API for creating a to-do list. I used Jason Web Token to authentication and awilix package to dependency injection rule. This app was prepared in the develop version. Environment variables were used for configuration. The application is located on the server. Details can be found in the readme file.
     
    Frontend App url:  https://www.tickitoff.networkmanager.pl
    Code: https://github.com/eLPog/To_Do_List_Backend
-     Details can be found in the readme file.
+   
     
   **4.Cat Care**
     Cat Care is an app I'm still working on. It is written Nest js and allows you to associate users about caring for a cat when the owner cannot do it himself (vacation, illness, business trip). Registered users can add a cat for which they will create an advertisement later. A user registered as a helper may take such an announcement and undertake to take care of the cat within the time specified in the announcement. If you want to test this app, please use develop branche. Remeber to connect own database. 
     
     Code: https://github.com/eLPog/CatCare
     
+    
    **5.CRM - Simple Customer relationship managementr**
-       This application allows you to add, edit and delete companies, add financial transactions and check the financial balance. The data is saved in mongooseDB. A detailed description is in the readme file. You can try this app on https://project2simplecrm.herokuapp.com email to login:test@test.pl password: test123 or You can create your own new Account. Passwords are hashed.
-       
-       App url: https://project2simplecrm.herokuapp.com
-       Code:   https://github.com/eLPog/CRM_Fullstack
+       This application allows you to add, edit and delete companies, add financial transactions and check the financial balance. The data is saved in mongooseDB. A detailed description is in the readme file. You can try this app on https://project2simplecrm.herokuapp.com email to login:test@test.pl password: test123 or You can create your own new Account. Passwords are **hashed**.   
+       **App url: https://project2simplecrm.herokuapp.com**
+       **Code:   https://github.com/eLPog/CRM_Fullstack**
      
     
  **What's next?**
