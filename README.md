@@ -23,7 +23,7 @@
    But I decided to leave the applications as knowledgeable as I was at the time I wrote them so that I can compare my development progress.
     
   **1.Food Order**
-  A simple react app for ordering meals. The state of the application is based on 3 different hooks: useState, useRef and useContext (as part of learning). The order is fetching to the firebase database.
+  A simple react app for ordering meals. The state of the application is based on 3 different hooks: useState, useRef and useContext (as part of learning). The order is fetching to the firebase database. App url: https://foodorder.networkmanager.pl
   
   **2.Tick it off**
      React application created as a frontend for "Backend for To Do List" application. It allows the user to register and log in as well as store, add, edit and delete notes. The state of the application is based on Redux/Toolkit and locals states.
@@ -35,7 +35,7 @@
     Cat Care is an app I'm still working on. It is written Nest js and allows you to associate users about caring for a cat when the owner cannot do it himself (vacation, illness, business trip). Registered users can add a cat for which they will create an advertisement later. A user registered as a helper may take such an announcement and undertake to take care of the cat within the time specified in the announcement. If you want to test this app, please use develop branche. Remeber to connect own database. 
     
    **5.CRM - Simple Customer relationship managementr**
-       This application allows you to add, edit and delete companies, add financial transactions and check the financial balance. The data is saved in mongooseDB. A detailed description is in the readme file.
+       This application allows you to add, edit and delete companies, add financial transactions and check the financial balance. The data is saved in mongooseDB. A detailed description is in the readme file. You can try this app on https://project2simplecrm.herokuapp.com email to login:test@test.pl password: test123 or You can create your own new Account. Passwords are hashed.
      
     
  **What's next?**
