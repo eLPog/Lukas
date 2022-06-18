@@ -26,10 +26,10 @@
   A simple react app for ordering meals. The state of the application is based on 3 different hooks: useState, useRef and useContext (as part of learning). The order is fetching to the firebase database. App url: https://foodorder.networkmanager.pl
   
   **2.Tick it off**
-     React application created as a frontend for "Backend for To Do List" application. It allows the user to register and log in as well as store, add, edit and delete notes. The state of the application is based on Redux/Toolkit and locals states.
+     React application created as a frontend for "Backend for To Do List" application. It allows the user to register and log in as well as store, add, edit and delete notes. The state of the application is based on Redux/Toolkit and locals states. App url:  https://www.tickitoff.networkmanager.pl
      
   **3.Backend for To Do List**
-    REST API for creating a to-do list. I used Jason Web Token to authentication and awilix package to dependency injection rule. This app was prepared in the develop version. Environment variables were used for configuration. The application is located on the server and supports the website https://www.tickitof.networkmanager.pl . Details can be found in the readme file.
+    REST API for creating a to-do list. I used Jason Web Token to authentication and awilix package to dependency injection rule. This app was prepared in the develop version. Environment variables were used for configuration. The application is located on the server and supports the website https://www.tickitoff.networkmanager.pl  Details can be found in the readme file.
     
   **4.Cat Care**
     Cat Care is an app I'm still working on. It is written Nest js and allows you to associate users about caring for a cat when the owner cannot do it himself (vacation, illness, business trip). Registered users can add a cat for which they will create an advertisement later. A user registered as a helper may take such an announcement and undertake to take care of the cat within the time specified in the announcement. If you want to test this app, please use develop branche. Remeber to connect own database. 
