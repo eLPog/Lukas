@@ -28,7 +28,7 @@
   Code: https://github.com/eLPog/food_order
   
   **2.Tick it off**
-     React application created as a frontend for - To Do List Backend - application. It allows the user to register and log in as well as store, add, edit and delete notes. The state of the application is based on Redux/Toolkit and locals states.
+     React application created as a frontend for - To Do List Backend - application. It allows the user to register and log in as well as store, add, edit and delete notes. The state of the application is based on Redux/Toolkit and locals states.  return
    App url:  https://www.tickitoff.networkmanager.pl
    Code: https://github.com/eLPog/Tick_it_off
      
