@@ -12,7 +12,7 @@
   * CSS3
   * React JS
   * Redux / Redux toolkit
-  * Nest JS
+  * Jest
   
    Below is a short description of my repositories, which I am constantly improving over time. 
   Of course, when I wrote these projects today, I would do some things differently, among others: 
