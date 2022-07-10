@@ -27,7 +27,7 @@
    
   **1.Dog Taker**  
     Dog Taker is an app I'm still working on. It is written Nest js and allows you to book a date for a walk with a dog from an animal shelter. Admin can add more animals with photos and has access to all booked dates. The application includes: JWT authorization, typeORM (DataMapper), Guards, Unit tests (in progress)    
-  Code: https://github.com/eLPog/CatCare  
+  Code: https://github.com/eLPog/DogTaker 
    
  **2.To Do List Backend**  
     REST API for creating a to-do list. I used Jason Web Token to authentication and awilix package to dependency injection rule. This app was prepared in the develop version. Environment variables were used for configuration. The application is located on the server. Details can be found in the readme file.   
