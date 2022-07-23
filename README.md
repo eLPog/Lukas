@@ -43,11 +43,7 @@
      React application created as a frontend for - To Do List Backend - application. It allows the user to register and log in as well as store, add, edit and delete notes. The state of the application is based on Redux/Toolkit and locals states.      
    App url:  https://www.tickitoff.networkmanager.pl
    Code: https://github.com/eLPog/Tick_it_off
-    
-  **5.Food Order**  
-  A simple react app for ordering meals. The state of the application is based on 3 different hooks: useState, useRef and useContext (as part of learning). The order is fetching to the firebase database.   
-  App url: https://foodorder.networkmanager.pl
-  Code: https://github.com/eLPog/food_order
+
       
   
      
