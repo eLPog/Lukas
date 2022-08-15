@@ -44,7 +44,7 @@
   App url: https://foodorder.networkmanager.pl
   Code: https://github.com/eLPog/food_order
  
- **5.CRM - FullStack - ExpressJS + HBS **  
+ **5.CRM - FullStack - ExpressJS + HBS**  
        Simple Customer relationship managementr. This application allows you to add, edit and delete companies, add financial transactions and check the financial balance. Frontend built in handlebars technology and is very simple - only to show logical operations. The data is saved in mongooseDB. A detailed description is in the readme file. You can try this app on https://project2simplecrm.herokuapp.com email to login:test@test.pl password: test123 or You can create your own new Account. Passwords are hashed.   
   App url: https://project2simplecrm.herokuapp.com
   Code:   https://github.com/eLPog/CRM_Fullstack
