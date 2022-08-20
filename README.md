@@ -26,7 +26,7 @@
    But I decided to leave the applications as knowledgeable as I was at the time I wrote them so that I can compare my development progress.
    
   **1.Rock Paper Scissors React**  
-   Simple game Rock Paper Scissors for two players. Names and games history are save to local storage.  
+   Simple game Rock Paper Scissors. User can play against another user  (in the same browser of course) or against the computer Names and games history are save to local storage.  
    Url: https://www.rockpaper.networkmanager.pl
    Code:https://github.com/eLPog/RPS
    
