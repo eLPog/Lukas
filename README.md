@@ -25,8 +25,8 @@
     
    But I decided to leave the applications as knowledgeable as I was at the time I wrote them so that I can compare my development progress.
    
-  **1.Rock Paper Scissors Lizard Spoke React**  
-   Simple game Rock Paper Scissors in the version that appeared in the Big Bang Theory series. In addition, we have a choice of a lizard and Spoke. Each one character wins over two others.
+  **1.Rock Paper Scissors Lizard Spoke React TypeScript**  
+   Simple game Rock Paper Scissors in the version that appeared in the Big Bang Theory series. In addition, we have a choice of a lizard and Spoke. Each one character wins over two others. 
    User can play against another user  (in the same browser of course) or against the computer Names and games history are save to local storage.  
    Url: https://www.rockpaper.networkmanager.pl
    Code:https://github.com/eLPog/RPS
@@ -41,12 +41,12 @@
    App url:  https://www.tickitoff.networkmanager.pl
    Code: https://github.com/eLPog/Tick_it_off
    
- **4.To Do List Backend ExpressJS**  
+ **4.To Do List Backend ExpressJS TypeScript**  
     REST API for creating a to-do list. I used Jason Web Token to authentication and awilix package to dependency injection rule. This app was prepared in the develop version. Environment variables were used for configuration. The application is located on the server. Details can be found in the readme file.   
   Frontend App url:  https://www.tickitoff.networkmanager.pl
   Code: https://github.com/eLPog/To_Do_List_Backend
  
- **5.Dog Taker Backend NestJS**  
+ **5.Dog Taker Backend NestJS TypeScript**  
     Dog Taker is an app I'm still working on. It is written Nest js and allows you to book a date for a walk with a dog from an animal shelter. Admin can add more animals with photos and has access to all booked dates. The application includes: JWT authorization, typeORM (DataMapper), Guards, Unit tests (in progress)    
   Code: https://github.com/eLPog/DogTaker 
   
