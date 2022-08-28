@@ -36,15 +36,15 @@
    App url:  https://www.tickitoff.networkmanager.pl
    Code: https://github.com/eLPog/Tick_it_off
    
-  **3.Food Order React**  
-  A simple react app for ordering meals. The state of the application is based on 3 different hooks: useState, useRef and useContext (as part of learning). The order is fetching to the firebase database.   
-  App url: https://foodorder.networkmanager.pl
-  Code: https://github.com/eLPog/food_order
-  
-  **4.Movie Studio Bootstrap**  
+  **3.Movie Studio Bootstrap**  
   A simple page created with Bootstrap. Fully responsive thanks to the use of bootstrap. 
   Frontend App url:  https://www.moviestudio.networkmanager.pl
   Code: https://github.com/eLPog/companyPage
+  
+  **4.Food Order React**  
+  A simple react app for ordering meals. The state of the application is based on 3 different hooks: useState, useRef and useContext (as part of learning). The order is fetching to the firebase database.   
+  App url: https://foodorder.networkmanager.pl
+  Code: https://github.com/eLPog/food_order
  
  **5.To Do List Backend ExpressJS TypeScript**  
     REST API for creating a to-do list. I used Jason Web Token to authentication and awilix package to dependency injection rule. This app was prepared in the develop version. Environment variables were used for configuration. The application is located on the server. Details can be found in the readme file.   
