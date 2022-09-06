@@ -31,10 +31,12 @@
    Url: https://www.rockpaper.networkmanager.pl
    Code:https://github.com/eLPog/RPS
    
-  **2.Tick it off  React**  
-     React application created as a frontend for - To Do List Backend - application. It allows the user to register and log in as well as store, add, edit and delete notes. The state of the application is based on Redux/Toolkit and locals states.      
+  **2.Tick it off Fullstack  ExpressJS TypeScript React**  
+   Backend - REST API for creating a to-do list. I used Jason Web Token to authentication and awilix package to dependency injection rule. This app was prepared in the develop version. Environment variables were used for configuration. Details can be found in the readme file.
+   Frontend -   React application created as a frontend for - To Do List Backend - application. It allows the user to register and log in as well as store, add, edit and delete notes. The state of the application is based on Redux/Toolkit and locals states.      
    App url:  https://www.tickitoff.networkmanager.pl
-   Code: https://github.com/eLPog/Tick_it_off
+   Code FrontEnd: https://github.com/eLPog/Tick_it_off
+   Code BackEnd: https://github.com/eLPog/To_Do_List_Backend
    
   **3.Movie Studio Bootstrap**  
   A simple page created with Bootstrap. Fully responsive thanks to the use of bootstrap. 
@@ -46,12 +48,7 @@
   App url: https://foodorder.networkmanager.pl
   Code: https://github.com/eLPog/food_order
  
- **5.To Do List Backend ExpressJS TypeScript**  
-    REST API for creating a to-do list. I used Jason Web Token to authentication and awilix package to dependency injection rule. This app was prepared in the develop version. Environment variables were used for configuration. The application is located on the server. Details can be found in the readme file.   
-  Frontend App url:  https://www.tickitoff.networkmanager.pl
-  Code: https://github.com/eLPog/To_Do_List_Backend
- 
- **6.Dog Taker Backend NestJS TypeScript**  
+ **5.Dog Taker Backend NestJS TypeScript**  
     Dog Taker is an app I'm still working on. It is written Nest js and allows you to book a date for a walk with a dog from an animal shelter. Admin can add more animals with photos and has access to all booked dates. The application includes: JWT authorization, typeORM (DataMapper), Guards, Unit tests (in progress)    
   Code: https://github.com/eLPog/DogTaker 
   
