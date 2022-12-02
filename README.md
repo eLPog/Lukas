@@ -1,17 +1,19 @@
  # Welcome  #
-  My name is Lukas and programming from a hobby has become my passion. As I deepened my knowledge mainly about JavaScript (mainly backend), it became clear to me that it was programming that I wanted to tie my professional future into.
+  My name is Lukas and programming from a hobby has become my passion. Daily coding is the best way for me to develop myself, so every new day broadens my programming knowledge. Below are some of my projects that I am still trying to develop.
+I am currently learning Java (postgraduate studies).
+
   
    ## Technologies I use: ##
   * JavaScript (EcmaSript 6)
+  * React JS
   * Node JS
   * Express JS
   * Nest JS
   * Type Script
+  * Jest
   * SQL and NoSQL
   * TypeORM
-  * React JS
   * Redux / Redux toolkit
-  * Jest
   * GIT 
   * HTML
   * CSS
@@ -34,13 +36,13 @@ The app is still under development.
    Url: https://www.rockpaper.networkmanager.pl
    Code:https://github.com/eLPog/RPS
    
-  **3.Tick it off FullstackApp  ExpressJS TypeScript React**  
+  **3.Tick it off FullstackApp ExpressJS TypeScript React**  
    Backend - REST API for creating a to-do list. I used Jason Web Token to authentication and awilix package to dependency injection rule. This app was prepared in the develop version. Environment variables were used for configuration. Details can be found in the readme file.
    Frontend -   React application created as a frontend for - To Do List Backend - application. It allows the user to register and log in as well as store, add, edit and delete notes. The state of the application is based on Redux/Toolkit and locals states.      
    App url:  https://www.tickitoff.networkmanager.pl
-   Code FrontEnd: https://github.com/eLPog/Tick_it_off
    Code BackEnd: https://github.com/eLPog/To_Do_List_Backend
-   
+   Code FrontEnd: https://github.com/eLPog/Tick_it_off
+  
   **4.Movie Studio Bootstrap**  
   A simple page created with Bootstrap. Fully responsive thanks to the use of bootstrap. 
   Frontend App url:  https://www.moviestudio.networkmanager.pl
