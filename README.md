@@ -17,8 +17,8 @@ I am currently learning Java (postgraduate studies).
   * GIT 
   * HTML
   * CSS
-  * JAVA (postgraduate studies in progress)
-  * Good practices: DRY, SOLID, KISS, OOP, 
+  * JAVA, Spring Boot (postgraduate studies in progress)
+  * Good practices: DRY, SOLID, KISS, OOP
   
    Below is a short description of my repositories, which I am constantly improving over time. 
  
