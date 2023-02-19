@@ -1,6 +1,5 @@
  # Welcome  #
   My name is Lukas and programming from a hobby has become my passion. Daily coding is the best way for me to develop myself, so every new day broadens my programming knowledge. Below are some of my projects that I am still trying to develop.
-I am currently learning Java (postgraduate studies).
 
   
    ## Technologies I use: ##
@@ -8,16 +7,16 @@ I am currently learning Java (postgraduate studies).
   * React JS
   * Node JS
   * Express JS
+  * JAVA
+  * Spring Boot
+  * Hibernate
   * Nest JS
   * Type Script
   * Jest
-  * SQL and NoSQL
-  * TypeORM
+  * SQL
   * Redux / Redux toolkit
   * GIT 
-  * HTML
-  * CSS
-  * JAVA, Spring Boot (postgraduate studies in progress)
+  * HTML, CSS
   * Good practices: DRY, SOLID, KISS, OOP
   
    Below is a short description of my repositories, which I am constantly improving over time. 
