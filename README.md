@@ -1,5 +1,5 @@
  # Welcome  #
-  My name is Lukas and programming from a hobby has become my passion. Daily coding is the best way for me to develop myself, so every new day broadens my programming knowledge. Below are some of my projects that I am still trying to develop.
+  My name is Lukas and programming from a hobby has become my passion. Daily coding is the best way for me to develop myself, so every new day broadens my programming knowledge. Currently working as Software Developer in Germany. Below You can find some of my old projects. 
 
   
    ## Technologies I use: ##
@@ -19,7 +19,7 @@
   * HTML, CSS
   * Good practices: DRY, SOLID, KISS, OOP
   
-   Below is a short description of my repositories, which I am constantly improving over time. 
+   Below is a short description of my public repositories.
  
  **1.Food Order React**  
   The application simulates the process of ordering meals for company employees, e.g. company canteen. 
