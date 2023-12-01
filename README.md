@@ -47,9 +47,7 @@ The app is still under development.
   Frontend App url:  https://www.moviestudio.networkmanager.pl
   Code: https://github.com/eLPog/companyPage
  
- **5.Dog Taker Backend NestJS TypeScript**  
-    Dog Taker is an app I'm still working on. It is written Nest js and allows you to book a date for a walk with a dog from an animal shelter. Admin can add more animals with photos and has access to all booked dates. The application includes: JWT authorization, typeORM (DataMapper), Guards, Unit tests (in progress)    
-  Code: https://github.com/eLPog/DogTaker 
+
   
      
     
