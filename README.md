@@ -24,6 +24,7 @@
 **1.Project Navigator**  
   A project work management application. Operating similarly to Jira, it empowers users to create projects and define tasks associated with them. Users have different roles and depending on them they have access to particular functionalities.
   Technologies used: JAVA, Springboot, SpringSeurity, Thymeleaf, Postgresql
+  
   Code: https://github.com/eLPog/ProjectNavigator
  
  **2.Food Order React**  
