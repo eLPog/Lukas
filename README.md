@@ -1,21 +1,30 @@
  # Welcome  #
-  My name is Lukas and programming from a hobby has become my passion. Currently working as Software Developer in Germany. Daily coding is the best way for me to develop myself, so every new day broadens my programming knowledge. 
-  Below You can find some of my old projects. 
+  My name is Lukas and programming from a hobby has become my passion. Currently working as Java Developer. Daily coding is the best way for me to develop myself, so every new day broadens my programming knowledge. 
 
-   ## Technologies I use: ##
-  * JAVA
-  * SpringBoot
-  * JavaScript (EcmaSript 6)
-  * React JS
-  * Node JS
-  * Express JS 
-  * Hibernate
-  * TypeScript
-  * SQL
-  * Redux / Redux toolkit
-  * GIT 
-  * HTML, CSS
-  * Good practices: DRY, SOLID, KISS, OOP
+In my daily work, I use:
+
+* JAVA
+* SpringBoot
+* Hibernate
+* SQL
+* JUnit
+* GIT
+
+I always keep in mind the importance of good practices:
+* DRY, SOLID, KISS, OOP, Yagni
+* Code Reviews
+* Good Documentation
+
+In addition to these, I am familiar with:
+* JavaScript (ECMAScript 6)
+* React JS
+* Node JS
+* Express JS
+* TypeScript
+* Python
+* Maven
+* HTML, CSS
+
   
    Below is a short description of my public repositories.
 
