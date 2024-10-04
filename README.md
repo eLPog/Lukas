@@ -11,7 +11,7 @@ In my daily work, I use:
 * GIT
 
 I always keep in mind the importance of good practices:
-* DRY, SOLID, KISS, OOP, Yagni
+* DRY, SOLID, GRASP, KISS, OOP, Yagni
 * Code Reviews
 * Good Documentation
 
