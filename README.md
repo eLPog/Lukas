@@ -4,6 +4,7 @@
 In my daily work, I use:
 
 * JAVA
+* React
 * SpringBoot
 * Hibernate
 * SQL
